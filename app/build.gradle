@@ -5,7 +5,7 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "com.melip.melip_android"
+        applicationId "com.melip.android"
         minSdkVersion 21
         targetSdkVersion 21
         versionCode 1

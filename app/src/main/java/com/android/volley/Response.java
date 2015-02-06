@@ -23,6 +23,8 @@ package com.android.volley;
  */
 public class Response<T> {
 
+
+
     /** Callback interface for delivering parsed responses. */
     public interface Listener<T> {
         /** Called when a response is received. */
